@@ -1,1 +1,3 @@
  createdfrom dev-kashif
+
+echo Welcome to itechnet
