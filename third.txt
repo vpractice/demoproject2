@@ -1,3 +1,4 @@
 echo $date
 
 ech $a +$b
+echo $c
